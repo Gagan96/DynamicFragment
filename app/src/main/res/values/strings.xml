@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DynamicFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentA">Fragment A</string>
+    <string name="fragmentB">Fragment B</string>
+    <string name="fragmentb">Fragment B</string>
+    <string name="fragmenta">Fragment A</string>
+    <string name="subtitle1">Subtitle One</string>
+    <string name="buttona">GREP</string>
+    <string name="buttonb">man man</string>
+
+
+</resources>
